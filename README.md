@@ -1,7 +1,7 @@
 # DIP
 Digital Image Processing
 
-#Run
+
 ## Running on google colab
 The simplest way to run these python scripts is google colab.
 
