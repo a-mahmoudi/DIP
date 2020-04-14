@@ -7,15 +7,8 @@ The simplest way to run these python scripts is google colab.
 
 Simply click on provided each chapter google colab link to run a test codes.
 
-* Chapter 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/MMedia/blob/master/MMS_93_2_Chp01.ipynb)
+* Chapter 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//a-mahmoudi/DIP/blob/master/DIP_98_2_Chp01.ipynb)
 
-* Chapter 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/MMedia/blob/master/MMS_93_2_Chp02.ipynb)
-
-* Chapter 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/MMedia/blob/master/MMS_93_2_Chp03(edge-detection).ipynb)
-
-* Chapter 5-a [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/MMedia/blob/master/MMS_93_2_Chp05a(fourier%20transform).ipynp)
-
-* Chapter 5-b [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IVP-Lab/MMedia/blob/master/MMS_93_2_Chp05b(fourier%20transform).ipynb)
 
 
 ## Running on windows
