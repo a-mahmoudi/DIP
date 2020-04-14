@@ -21,7 +21,7 @@ Simply click on provided each chapter google colab link to run a test codes.
 ## Running on windows
 * Download and install [anaconda](https://www.anaconda.com/distribution/)
 * Create a new virtual environment
-* Download This [repository](https://github.com/IVP-Lab/MMedia/archive/master.zip)
+* Download This [repository](https://github.com/a-mahmoudi/DIP/archive/master.zip)
  compressed file and extract it.
 * Install requirements
 
